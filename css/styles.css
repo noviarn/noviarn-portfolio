@@ -489,6 +489,7 @@ a {
   background-color: var(--main-orange);
   color: var(--white-color);
   height: 3rem;
+  margin-top: 2.5rem;
 }
 
 .footer__container {
