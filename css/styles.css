@@ -509,32 +509,6 @@ a {
   font-weight: var(--font-semi-bold);
 }
 
-.projects__categories {
-  display: grid;
-  row-gap: 4rem;
-}
-
-.projects__category {
-  display: grid;
-  row-gap: 1.5rem;
-}
-
-.projects__category-title {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
-.projects__category-title h2 {
-  font-size: 1.5rem;
-}
-
-.projects__category-title span {
-  font-size: 0.875rem;
-  color: var(--text-color);
-}
-
 /* media queries */
 
 /* for small devices */
